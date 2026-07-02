@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+title: "RT-complex 11 like 1 is a male-specific blood transcript biomarker of S. mansoni infection in school-aged children"
+
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+
+authors:
+•	Leonel Javeres Mbah Ntepe : mbahjl@yahoo.fr; *contributed equally
+•	Roussel Moise Wokam Njomgang : wokammoise@gmail.com; *contributed equally
+•	Leonel Meyo Kamguia : kelvisleonel@yahoo.com; *contributed equally
+•	Martin Gael Oyono : oyonomartingael2.0@gmail.com
+•	Bernard Marie Zambo Bitye : zambobern@gmail.com
+•	Katie Lennard : katieviljoen@gmail.com
+•	Mireille Kameni : my.kameni@gmail.com
+•	Alim Oumarou : alimousmanou.ao@gmail.com
+•	Sandrine Oyegue : lyds_ass@yahoo.fr
+•	Louis-Albert Tchuem Tchuenté: tchuemtchuente@schisto.com
+•	Frank Brombacher : brombacherfrank@gmail.com
+•	Thomas Spangenberg : thomas.spangenberg@merckgroup.com
+•	Claudia Demarta-Gatsi : claudia.demarta@external.merckgroup.com
+•	Justin Komguep Nono : justkoms@yahoo.fr ; # Correspondence
+
+
+repository-code: "https://github.com/USERNAME/schistosomiasis-fibrosis-rnaseq-biomarkers"
+
+license: MIT
+
+keywords:
+biomarker
+blood transcript
+tcp11l1
+
+abstract: >
+  Schistosomiasis, also known as bilharzia, elicits a poorly suggestive transcriptional change in infected host. 
+The present study explored blood mRNA next generation sequencing hits from 3 independent bioinformatic pipelines 
+and downstream multi-cohort qPCR-based validation of sequencing biomarking transcript hits in carefully phenotyped 
+school aged children (SAC) from S. mansoni endemic area in rural Cameroon. A shared identification of the upregulated 
+expression of the T-complex 11 like 1   gene in S. mansoni-infected individuals was reported, specifically in males. 
+Stringent gene-specific qPCR confirmed the male-specific upregulation of tcp11l1 during S. mansoni infection that was 
+not apparent with other co-occurring infectious diseases such as malaria or hepatitis. Furthermore, tcp11l1 gene expression 
+levels correlated positively with stool egg burden in infected male SAC strongly arguing for a role of this gene 
+in the male host response to S. mansoni infection. Clinically, Receiver Operating Curve analysis unequivocally confirmed 
+the good predictive potential of tcp11l1 gene expression levels in discriminating S. mansoni negative and 
+S. mansoni positive male SAC from endemic areas. Finally, profiling of plasma metabolomics changes 
+in SAC expressing varying levels of the tcp11l1 gene revealed a heightened solicitation of butanoate, 
+glycerophospholipid  and histidine metabolisms, associating with high expression, thus unveiling unprecedented 
+functional cues on the role of this gene. Taken together, the case for a novel blood transcript biomarker of 
+S. mansoni infection and its possible role in male SAC from endemic areas is hereby unprecedentedly made.
+
+
+
+version: 1.0.0
+date-released: 2026-07-02
+
+
+
+
+
+
