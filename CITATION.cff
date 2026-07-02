@@ -3,7 +3,7 @@ title: "RT-complex 11 like 1 is a male-specific blood transcript biomarker of S.
 
 message: "If you use this repository, please cite it using the metadata below."
 type: software
-
+Mbah; Wokam; Kamguia; et Al, 2026
 authors:
 •	Leonel Javeres Mbah Ntepe : mbahjl@yahoo.fr; *contributed equally
 •	Roussel Moise Wokam Njomgang : wokammoise@gmail.com; *contributed equally
@@ -21,7 +21,7 @@ authors:
 •	Justin Komguep Nono : justkoms@yahoo.fr ; # Correspondence
 
 
-repository-code: "https://github.com/USERNAME/schistosomiasis-fibrosis-rnaseq-biomarkers"
+repository-code: "https://github.com/MosesIBHI/schistosomiasis-fibrosis-rnaseq-biomarkers"
 
 license: MIT
 
