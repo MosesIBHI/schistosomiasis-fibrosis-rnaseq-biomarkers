@@ -1,0 +1,20 @@
+├── data/
+│   ├── data_DEG_R.csv
+│   ├── ribo_minus_counts.rds
+│   ├── metadata.csv
+│   └── ensembl_gchr37_annotation.rds
+│
+├── scripts/
+│   ├── DESeq2/
+│   ├── edgeR/
+│   └── EBSeq/
+│
+├── results/
+│   ├── DESeq2/
+│   ├── edgeR/
+│   └── EBSeq/
+│
+│
+├── LICENSE
+├── README.md
+└── CITATION.cff
